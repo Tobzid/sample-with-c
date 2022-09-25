@@ -5,7 +5,7 @@
 
 int main()
 {
-char new;
+char new[20];
 char litenew[] = "my name is Tolu";
 
 strcpy(new, litenew);
